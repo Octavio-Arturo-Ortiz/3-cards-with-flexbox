@@ -2,6 +2,6 @@
 A simple 3 column project created with flexbox
 
 
-[HTML-Busqueda](index.html)
+[HTML](index.html)
 
 [CSS](styles.css)
