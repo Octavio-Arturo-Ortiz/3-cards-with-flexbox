@@ -1,4 +1,4 @@
-# 3-column-card
+# 3-column-cards-flexbox
 A simple 3 column project created with flexbox
 
 
